@@ -60,7 +60,7 @@ The project focuses on the **Authentication** and **Course Management** modules 
 
 ---
 
-## 🛠 Tools
+##  Tools
 
 - Postman
 - Swagger UI
