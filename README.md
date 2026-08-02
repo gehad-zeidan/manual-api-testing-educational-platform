@@ -1,4 +1,4 @@
-# Mestar – Manual API Testing
+Educational Platform – Manual API Testing
 
 ## Project Overview
 
