@@ -69,7 +69,7 @@ The project focuses on the **Authentication** and **Course Management** modules 
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 - Test Plan
 - Test Cases
@@ -79,7 +79,7 @@ The project focuses on the **Authentication** and **Course Management** modules 
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 educational-platform-api-testing
